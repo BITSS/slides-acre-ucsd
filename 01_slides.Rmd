@@ -2,10 +2,10 @@
 title: "Accelerating Computational Reproducibility in Social Science (and Policy Analysis?)"
 subtitle: "Prof. Jennifer Burmey's Research Group"
 author: "Fernando Hoces de la Guardia, BITSS"
-date:  "`r format(as.Date('2021-02-02'), '%d %B %Y')` | [slides](https://bitss.github.io/acre-slides-ucsd/)"
+date:  "`r format(as.Date('2021-02-02'), '%d %B %Y')` | [slides](https://bitss.github.io/slides-acre-ucsd/)"
 output: 
   xaringan::moon_reader:
-    footer: "These slides available at https://bitss.github.io/acre-slides-ucsd/"
+    footer: "These slides available at https://bitss.github.io/slides-acre-ucsd/"
     css: [default, metropolis, metropolis-fonts] 
     lib_dir: libs
     nature:
