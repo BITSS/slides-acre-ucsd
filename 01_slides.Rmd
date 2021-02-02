@@ -1942,6 +1942,6 @@ When there is little information for a parameter used in an OPA, a forecasting e
 
 
 
-```{r gen_pdf, include = FALSE, cache = FALSE, eval = TRUE}
+```{r gen_pdf, include = FALSE, cache = FALSE, eval = FALSE}
 pagedown::chrome_print("01_slides.html", output = "01_slides.pdf")
 ```
